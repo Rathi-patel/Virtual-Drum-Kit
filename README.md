@@ -28,6 +28,9 @@ Virtual Drum Kit/
 └── README.md          # This file
 ```
 
+## screenshot
+![images](image.png)
+
 ## Getting Started
 
 ### Prerequisites
