@@ -29,7 +29,7 @@ Virtual Drum Kit/
 ```
 
 ## screenshot
-![images](Screenshot 2026-05-21 133452.png)
+![images](Screenshot_2026-05-21_133452.png)
 
 ## Getting Started
 
