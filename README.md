@@ -123,4 +123,4 @@ Potential improvements for future versions:
 
 ## Testing
 
-Application functionality tested using [TestGrid](https://testgrid.io)
+Application functionality tested using [TestGrid.io](https://testgrid.io)
